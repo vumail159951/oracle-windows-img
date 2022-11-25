@@ -16,4 +16,4 @@ B. Windows 7 Enterprise (TK: Administrator MK: nat.ee)
 wget --no-check-certificate -qO InstallNET.sh 'https://raw.githubusercontent.com/vumail159951/oracle-windows-img/main/InstallNET.sh' && bash InstallNET.sh -dd 'http://63.210.148.61/Oracle_Win7_sp1_64_Administrator_nat.ee.gz'
 
 
-Sau khi chạy lệnh chờ nó tự ngắt putty, chờ thêm 5 phút và lên Oracle cloud reboot lại instance. sau đó chờ 20 - 40 phút cho đến khi máy ở trạng thái Running.
+Sau khi chạy lệnh chờ nó tự ngắt putty, chờ thêm 10 phút và lên Oracle cloud reboot lại instance. sau đó chờ 20 - 40 phút cho đến khi máy ở trạng thái Running.
